@@ -35,12 +35,15 @@ Setup database settings inside `backend/ormconfig.json` file.
 
 ## Layout
 
+<div style="display: flex; justify-content:space-between;">
 <p>
   <img src="./.github/assets/img1.PNG" width="300" height="300">
 <p>
 <p>
   <img src="./.github/assets/img2.PNG" width="300" height="300">
 <p>
+
+</div>
 
 ## Running the application
 
@@ -89,6 +92,6 @@ Contributions are what make the open source community an incredible place to lea
 
 ## Author
 
-<p>
-  João Amadeu - [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-amadeu-8812291a5/)
-</p>
+João Amadeu
+
+- [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-amadeu-8812291a5/)
