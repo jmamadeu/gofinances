@@ -1,9 +1,7 @@
 # GoFinances
 
-<p> 
-  This project is an simple example of one application for transactions managment.
-  One of the challenges of the Rocketseat goStack 11 bootcamp!
-</p>
+This project is an simple example of one application for transactions managment.
+One of the challenges of the `Rocketseat` goStack 11 bootcamp!
 
 ## ✋🏻 Prerequisites
 
